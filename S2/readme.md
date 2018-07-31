@@ -3,8 +3,6 @@
 * Funciones de apariencia `fill(), noFill(), stroke(), noStroke(), strokeWeight()`
 * `random()`
 * Operaciones matemáticas en consola
-* Variables en modo estático
-* Modo dinámico
 * Variables en modo dinámico
 * Funciones
   * `setup(), draw()`

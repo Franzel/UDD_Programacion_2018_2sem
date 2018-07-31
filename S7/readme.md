@@ -4,8 +4,7 @@
 * Trabajo práctico en Examen
 
 * Extras:
-  * Animación y dibujos radiales via sin/cos
-  * Incorporación de Imágenes y Fuentes
+  * Object Oriented Programming
 
 ## Video sugerido
 * [8.1: What is Object-Oriented Programming (OOP)?](https://www.youtube.com/watch?v=YcbcfkLzgvs)
@@ -16,8 +15,7 @@
 
 
 ## Cosas para mirar / inspiración
-[Creaturas multitouch](http://www.creativeapplications.net/cinder/rec-all-a-puzzling-universe-of-multitouch-creatures/)
-[El abismo - creaturas marinas](http://www.creativeapplications.net/processing/the-abyss-tutorial/)
+[El abismo - creaturas marinas] (http://www.creativeapplications.net/processing/the-abyss-tutorial/)
 [Personajes cantores App] (http://www.creativeapplications.net/processing/bla-bla-bla-iphone-of-processing-sound/)
 [CinderMedusae] (http://marcinignac.com/projects/cindermedusae/)
 [Communion - Universal Everything] (http://universaleverything.com/projects/communion/)

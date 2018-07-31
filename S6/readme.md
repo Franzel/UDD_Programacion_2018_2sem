@@ -1,10 +1,8 @@
 # Programación 2018 - Semana 06
 ## Contenido de Hoy
-* Cada alumno presenta en 2-3 minutos acerca de su proyecto de Examen
-* Trabajo práctico en Examen
-
-* Extras:
-* Animación y dibujos radiales via sin/cos
+* Animación y dibujos radiales via rotación
+* Transformaciones de Matriz: `pushMatrix()`, `popMatrix()`, `translate()`, `rotate()`
+* Rotación vía trigonometría: seno y coseno
 * Incorporación de Imágenes y Fuentes
 * Arrays
   * Arrays unidimensionales
@@ -13,9 +11,6 @@
 * Arraylists
 * Strings
 
-* Animación y dibujos radiales
-* sin/cos
-* Incorporación de Imágenes y Fuentes
 * Hablaremos sobre el Examen, forma de trabajo en clases restantes y pre-entregas
 
 * **Referentes:**

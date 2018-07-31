@@ -1,15 +1,10 @@
 # Programación 2018 - Semana 03
 ## Contenido de Hoy
-* Revisión Entrega 02
-* Rápido repaso semana anterior
 * Interacción básica de usuario
 	* Eventos de mouse `mouseX, mouseY`
 	* Eventos de teclado `keyPressed(), mousePressed(), mouseDragged()`
-	* Data Types: `int, float, boolean`
+	* Condicionales `if, else, else if`
 * Data Types: `int, float, boolean`
-* Estructuras de control 1:
-  * Condicionales `if, else, else if`
-
 
 ## Para la próxima semana
 ### Video Sugerido
