@@ -15,7 +15,6 @@
 
 
 ## Cosas para mirar / inspiración
-[Creaturas multitouch](http://www.creativeapplications.net/cinder/rec-all-a-puzzling-universe-of-multitouch-creatures/)
 [El abismo - creaturas marinas](http://www.creativeapplications.net/processing/the-abyss-tutorial/)
 [Personajes cantores App] (http://www.creativeapplications.net/processing/bla-bla-bla-iphone-of-processing-sound/)
 [CinderMedusae] (http://marcinignac.com/projects/cindermedusae/)
