@@ -1,4 +1,4 @@
-# UDD_Programacion Primer Semestre 2018, Sección 2
+# UDD_Programacion Primer Semestre 2018, Sección 1 y 3
 **Profesor Francisco Zamorano / Ayudante Josefa Méndez**
 
 ## Calendario de Entregas - Resumen
@@ -39,25 +39,24 @@
       * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/aeH4UEbstRNaLirb6bMG)
 
 
-## Calendario de clases y ayudantías
+## SECCIÓN 1 - Calendario de clases y ayudantías
 
 
 Fecha | Tipo | Entrega/Actividad
 ------------ | ------------- | ---
-lun. 14 de Mayo	| CLASE	S1	| clase
-mie. 16 de Mayo	| AYUDANTÍA	|
-lun. 21 de Mayo	| **FERIADO**	| No hay clases
-mie. 23 de Mayo	| AYUDANTÍA	|
-lun. 28 de Mayo	| CLASE	S2	| E01 ClonArte
-mie. 30 de Mayo	| AYUDANTÍA	|
-lun. 04 de Junio	| CLASE	S3	|E02 variArte
-mie. 06 de Junio	| AYUDANTÍA	|
-lun. 11 de Junio	| CLASE	SUSPENDIDA	| E03 HyperBrush
-mie. 13 de Junio	| CLASE S4	| Clase recuperativa
-lun. 18 de Junio	| CLASE	S5	|
-mie. 20 de Junio	| AYUDANTÍA	|
-lun. 25 de Junio	| CLASE	S6	| E04 patronInteractivo
-mie. 27 de Junio	| AYUDANTÍA	|
-lun. 02 de Julio	| **FERIADO**	| No hay clases
-mie. 04 de Julio	| AYUDANTÍA	|
-lun. 09 de Julio	| CLASE	S7	| EX02 Examen Final
+mar. 7 de Agosto	| CLASE	S1	| clase
+mie. 16 de Agosto	| AYUDANTÍA	|
+mar. 14 de Agosto	| CLASE	S2	| E01 ClonArte
+mie. 23 de Agosto	| AYUDANTÍA	|
+mar. 21 de Agosto	| CLASE	S3	| E01 ClonArte
+mie. 30 de Agosto	| AYUDANTÍA	|
+mar. 28 de Agosto	| CLASE	S4	|E02 variArte
+mie. 06 de Septiembre	| AYUDANTÍA	|
+mar. 04 de Septiembre	| CLASE S5	| E03 HyperBrush
+mie. 06 de Septiembre	| AYUDANTÍA	|
+mar. 11 de Septiembre	| CLASE	S6	|
+mie. 20 de Septiembre	| AYUDANTÍA	|
+mar. 25 de Septiembre	| CLASE	S7	| E04 patronInteractivo
+mie. 04 de Octubre	| AYUDANTÍA	|
+mar. 02 de Octubre	| CLASE	S8	| EX02 Examen Final
+
