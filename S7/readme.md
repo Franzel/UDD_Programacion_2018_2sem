@@ -4,8 +4,7 @@
 * Trabajo práctico en Examen
 
 * Extras:
-  * Animación y dibujos radiales via sin/cos
-  * Incorporación de Imágenes y Fuentes
+  * Object Oriented Programming
 
 ## Video sugerido
 * [8.1: What is Object-Oriented Programming (OOP)?](https://www.youtube.com/watch?v=YcbcfkLzgvs)
