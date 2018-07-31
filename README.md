@@ -30,7 +30,8 @@ Las evaluaciones se componen de:
 * Controles de conocimientos
 * Examen Final
 
-Este curso tiene la categoría de "Bimestral", por lo cual existirán 4 evaluaciones calificadas durante el semestre. Serán 3 ejecicios, que se ponderan para sumar un 45%, 1 ejercicio mayor con un valor de 25% y el Examen Final que corresponde al 30% restante. Para más detalle, ver Calendario resumen correspondiente a su sección. 
+Este curso tiene la categoría de "Bimestral", por lo cual existirán 4 evaluaciones calificadas durante el semestre, más el Examen Final.
+De las 4 iniciales, 3 serán Ejercicios que se ponderan para sumar un 45%, 1 ejercicio mayor con un valor de 25% y el Examen Final que corresponde al 30% restante. Para más detalle, ver Calendario Resumen correspondiente a su sección. 
 
 Ninguna evaluación parcial podrá, por sí sola, ponderar más del 25% de la nota total del curso.
 
@@ -46,11 +47,11 @@ El código con el que trabajaremos en el curso responde a la lógica de _[Códig
 Por la naturaleza de la asignatura y de Processing, el lenguaje de programación utilizado en el curso, los estudiantes encontrarán fácilmente referencias de códigos que podrán obtener de Internet, en diversas fuentes.
 
 El uso de estas fuentes está permitido, pero solo en tanto existan tres condiciones:
-* Una comprensión del estudiante respecto a qué función cumple, y cómo opera dicho código al nivel de detalle, y que sea capaz de explicarlo.
-* **Siempre** exista atribución a la fuente original de dicho material,inluyendo el URL fuente en el código mismo.
-* **Apropriación responsable**, es decir, el código usado debe haber sido modificado, remezclado **lo suficiente** para que no constituya un plagio (no cuenta por ejemplo, cambiar el color o tamaño de los elementos).
+* **Una comprensión del estudiante** respecto a qué función cumple y cómo opera dicho código al nivel de detalle, y que sea capaz de explicarlo.
+* **Siempre** exista atribución a la fuente original de dicho material, inluyendo explícitamente el URL fuente en el código mismo.
+* **Apropriación responsable**, es decir, el código usado debe haber sido modificado y/o remezclado **lo suficiente** para que no constituya un plagio (no cuenta por ejemplo, cambiar el color o tamaño de los elementos).
 
-**La práctica de plagio no será tolerada y considerada una falta grave**. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Integridad Academica](https://github.com/Franzel/UDD_Programacion_2018_2sem/blob/master/Documentos_UDD/INSTRUCTIVO%20DE%20INTEGRIDAD%20ACAD%C3%89MICA_dise%C3%B1o%20UDD.pdf) de la Facultad de Diseño.
+**La práctica de plagio no será tolerada y es considerada una falta grave**. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Integridad Academica](https://github.com/Franzel/UDD_Programacion_2018_2sem/blob/master/Documentos_UDD/INSTRUCTIVO%20DE%20INTEGRIDAD%20ACAD%C3%89MICA_dise%C3%B1o%20UDD.pdf) de la Facultad de Diseño.
 
 ## Bibliografía
 ### Bibliografía Obligatoria:
