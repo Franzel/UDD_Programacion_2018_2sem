@@ -48,7 +48,7 @@ Por la naturaleza de la asignatura y de Processing, el lenguaje de programación
 
 El uso de estas fuentes está permitido, pero solo en tanto existan tres condiciones:
 * **Una comprensión del estudiante** respecto a qué función cumple y cómo opera dicho código al nivel de detalle, y que sea capaz de explicarlo.
-* **Siempre** exista atribución a la fuente original de dicho material, inluyendo explícitamente el URL fuente en el código mismo.
+* **Siempre** exista atribución a la fuente original de dicho material, incluyendo explícitamente el URL fuente en el código mismo.
 * **Apropriación responsable**, es decir, el código usado debe haber sido modificado y/o remezclado **lo suficiente** para que no constituya un plagio (no cuenta por ejemplo, cambiar el color o tamaño de los elementos).
 
 **La práctica de plagio no será tolerada y es considerada una falta grave**. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Integridad Academica](https://github.com/Franzel/UDD_Programacion_2018_2sem/blob/master/Documentos_UDD/INSTRUCTIVO%20DE%20INTEGRIDAD%20ACAD%C3%89MICA_dise%C3%B1o%20UDD.pdf) de la Facultad de Diseño.
