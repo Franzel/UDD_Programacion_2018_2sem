@@ -23,9 +23,8 @@
 * En las primeras líneas del sketch de processing se especificará el nombre de la obra, el autor, y el URL a la imagen original
 * Comprimir en .zip la carpeta que contiene el sketch de Processing y la imagen original recortada, subire el archivo zip a Dropbox (ver link abajo).
 
-**Dónde/Cuándo entregar:**
-* Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/FuZukVSRMflCdnixY6O5)
-* **Fecha y hora límite:** Lunes 28 de Mayo, 10:00 AM
+**Dónde/Cuándo entregar/Hora límite:**
+* Ver Calendario Resumen correspondiente a su sección.
 
 **Evaluación y multas:**
 * **Criterios de evaluación:**
@@ -54,9 +53,8 @@ Se debe poner especial atención al factor estético de la composición.
 * En las primeras líneas del sketch de processing se especificará el nombre del alumno, nombre del encargo y la fecha.
 * Comprimir en .zip la carpeta que contiene el sketch de Processing y subir al Dropbox especificado más abajo.
 
-**Dónde/Cuándo entregar:**
-* Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/Qkd8smElZ4SPXy8KPlSb)
-* **Fecha y hora límite:** Lunes 04 de Junio, 10:00 AM
+**Dónde/Cuándo entregar/Hora límite:**
+* Ver Calendario Resumen correspondiente a su sección.
 
 **Evaluación y multas:**
 * **Criterios de evaluación:**
@@ -96,9 +94,8 @@ Se debe poner especial atención al factor estético de la composición.
   * Junto al archivo `.pde` adjuntar una captura de imagen del sketch (En formato JPG), mostrando un ejemplo de lo que se puede pintar con la herramienta. IMPORTANTE: La imagen debe estar nombrada en base al concepto, por ejemplo `filudo.jpg`
   * La carpeta se comprime en .zip antes de ser entregada (subida).
 
-**Dónde entregar:**
-* Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/XU5NOuh0llo57Osc1w81)
-* **Fecha y hora límite:** Lunes 11 de Junio, 10:00 AM
+**Dónde/Cuándo entregar/Hora límite:**
+* Ver Calendario Resumen correspondiente a su sección.
 
 **Criterios de Evaluación :**
 * Expresividad, complejidad y novedad de la herramienta. Si es desafiante, mejor. Mientras más entretenida de usar y mas bello e interesante lo que se pinta, mejor será calificada.
@@ -129,10 +126,8 @@ Se debe poner especial atención al factor estético de la composición.
 * La carpeta que se entrega utilizará la siguiente nomenclatura: **`E04_Apellido_Nombre.zip`**
 * En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha y nombre del sketch
 
-**Dónde entregar:**
-* Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/8j8nT5koGvYCThUfZ5T6)
-* **Fecha y hora límite:** Lunes 18 de Junio, 10:00 AM
-
+**Dónde/Cuándo entregar/Hora límite:**
+* Ver Calendario Resumen correspondiente a su sección.
 
 **Criterios de evaluación:**
   * Expresividad, complejidad y novedad de la herramienta. Si es desafiante, mejor.
@@ -189,14 +184,12 @@ Se debe poner especial atención al factor estético de la composición.
 ###### **Anteproyecto**:
 - Carpeta comprimida en .zip, que incluye el poster en pdf a partir de la plantilla entregada y el sketch de processing
 - Nomenclatura: **`EX_01_Apellido_Nombre.zip`**
-- Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/ak8SbjacKug0OMFuq3pN)
-* **Fecha y hora límite:** Lunes 25 de Junio, 02:30 PM
+- Ver detalles de cuando, dónde y cómo enregar en Calendario Resumen correspondiente a su sección
 
 ###### **Final:**
 - Carpeta comprimida en .zip, que incluye el poster en pdf a partir de la plantilla entregada y el sketch de processing
 - Nomenclatura: **`EX_FINAL_Apellido_Nombre.zip`**
-- Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/aeH4UEbstRNaLirb6bMG)
-* **Fecha y hora límite:** Lunes 09 de Julio, 10:00 AM
+- Ver detalles de cuando, dónde y cómo enregar en Calendario Resumen correspondiente a su sección
 
 
 **Evaluación y multas:**
