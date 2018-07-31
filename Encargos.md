@@ -21,7 +21,7 @@
 * Tanto la carpeta y archivo `.pde` deben llamarse igual. Ambas utilizarán la siguiente nomenclatura: **`E01_Apellido_Nombre`**
 * En la misma carpeta se debe incluir la imagen original recortada. La imagen debe ser de 400x400 pixeles en formato JPG
 * En las primeras líneas del sketch de processing se especificará el nombre de la obra, el autor, y el URL a la imagen original
-* Comprimir en .zip la carpeta que contiene el sketch de Processing y la imagen original recortada.
+* Comprimir en .zip la carpeta que contiene el sketch de Processing y la imagen original recortada, subire el archivo zip a Dropbox (ver link abajo).
 
 **Dónde/Cuándo entregar:**
 * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/FuZukVSRMflCdnixY6O5)
@@ -29,13 +29,13 @@
 
 **Evaluación y multas:**
 * **Criterios de evaluación:**
-	* Selección y complejidad de imagen. Si es desafiante, mejor. El desafío se evalúa también por la cantidad de formas escogidas, por ejemplo, si usa solo rectángulos no se considerará un gran desafío.
+	* Selección y complejidad de imagen. Si es desafiante, mejor. El desafío se evalúa también por la variedad de formas escogidas, por ejemplo, si usa solo rectángulos no se considerará como un gran desafío.
 	* Fidelidad e interpretación: qué tan parecida es a la original. Muchas veces la reproducción no puede ser exacta (ej. caso de texturas), se medirá la capacidad de interpretar.
 	* Limpieza, depuración y nivel de comentarios del código
 * **Entregas tardías:** bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
 * **Especificaciones:** Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_1sem_2)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_2sem)*
 
 
 ---
@@ -66,7 +66,7 @@ Se debe poner especial atención al factor estético de la composición.
 * **Entregas tardías:** bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
 * **Especificaciones:** Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_1sem_2)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_2sem)*
 
 
 ---
@@ -112,7 +112,7 @@ Se debe poner especial atención al factor estético de la composición.
   Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_1sem_2)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_2sem)*
 
 ---
 ## Encargo 04 (E04): patronInteractivo
@@ -145,7 +145,7 @@ Se debe poner especial atención al factor estético de la composición.
   * **Especificaciones:**
   Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_1sem_2)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_2sem)*
 
 ---
 ## Examen: Poster Interactivo
@@ -155,27 +155,28 @@ Se debe poner especial atención al factor estético de la composición.
 * Calificación: **30%** (del 100% calificación final del curso)
 
 #### Descripción
-* La entrega consiste en dos partes:
+* La entrega consiste en tres partes:
   * 1 - Sketch de Processing Interactivo
-  * 2 - Poster impreso, que se colgará al lado de su entrega el día del examen.
-* Crear una composición visual, lo más acabada, desarrollada y fina posible. Debe tener múltiples elementos que conformen una composición mayor. No basta con dibujar una composición, sino que esta debe tener un orden matemático que sea claramente visible y eso es lo que la haga interesante.
+  * 2 - Póster en pdf, que se entrega junto al sketch
+  * 3 - Poster impreso, que se colgará al lado de su entrega el día del examen.
+* Crear una composición visual, lo más acabada, desarrollada y fina posible. Debe tener múltiples elementos individuales que conformen una composición mayor. No basta con dibujar una composición, sino que esta debe tener un orden matemático que sea claramente visible y eso es lo que la haga interesante.
 * La composición debe tener interacción con mouse y al menos 3 teclas.
-* NO ES: clonArte, no es hyperBrush. En ese sentido, se debe generar mas bien un sistema de dibujo generativo-paramétrico.
+* NO ES: clonArte, no es hyperBrush. En ese sentido, se debe generar mas bien un generativo-paramétrico.
 * Se podrá tomar inspiración de la naturaleza (ej. mariposas) o de sistemas sintéticos (ej. arquitectura), pero la idea es que la composición final sea lo más atractiva e interesante posible desde un punto de vista estético.
-* El poster impreso debe ser hecho a partir de una captura pdf de la composición. Hay que escoger un momento y capturarlo. El formato del poster será definido en los próximos días.
+* El poster impreso debe ser hecho a partir de una captura pdf de la composición. Hay que escoger un momento y capturarlo. Se entregará una plantilla en Illustrator para generar el póster.
 
 #### Etapas de Entrega:
-**Semana 06: Anteproyecto**
-~~- Cada alumno presentará (en 3 minutos máximo) lo que se pretende hacer.~~
-~~- La presentación debe incluir:~~
- ~~- Uno o más esquemas de lo que se quiere hacer, es decir, dibujar y esquematizar tanto la funcionalidad, interacción y visualidad del resultado final.~~
- ~~- Mostrar en forma breve lo que se ha programado hasta este momento. Debe ser funcional y demostrar que se ha programado en base a la intención del proyecto.~~
-~~- Fuentes de inspiración.~~
-  ~~- Plan de trabajo: dónde quiero estar la proxima semana, qué dejaré para la semana final.~~
-  ~~- Entregar un pdf, en formato horizontal, máximo de 2 hojas que explique en forma clara y concisa lo descrito más arriba.~~
-  ~~- ***ver formatos de entrega más abajo***~~
+**Semana 07: Anteproyecto**
+- Cada alumno presentará (en 3 minutos máximo) lo que se pretende hacer.
+- La presentación debe incluir:
+- Uno o más esquemas de lo que se quiere hacer, es decir, dibujar y esquematizar tanto la funcionalidad, interacción y visualidad del resultado final.
+- Mostrar en forma breve lo que se ha programado hasta este momento. Debe ser funcional y demostrar que se ha programado en base a la intención del proyecto.
+- Fuentes de inspiración.
+- Plan de trabajo: dónde quiero estar la proxima semana, qué dejaré para la semana final.
+- Entregar un pdf, en formato carta horizontal, máximo de 2 hojas que explique en forma clara y concisa lo descrito más arriba.
+- ***ver formatos de entrega más abajo***
 
-**Semana 07: Entrega Final**
+**Semana 08: Entrega Final**
 - Cada alumno presentará (en 3 minutos máximo) el estado final del proyecto.
 - La presentación debe incluir:
   - Colgar el poster junto a su computador.
@@ -186,12 +187,13 @@ Se debe poner especial atención al factor estético de la composición.
 #### **Formato y links de entrega:**
 
 ###### **Anteproyecto**:
-- Carpeta comprimida en .zip, que incluye el pdf y el sketch de processing
+- Carpeta comprimida en .zip, que incluye el poster en pdf a partir de la plantilla entregada y el sketch de processing
 - Nomenclatura: **`EX_01_Apellido_Nombre.zip`**
 - Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/ak8SbjacKug0OMFuq3pN)
 * **Fecha y hora límite:** Lunes 25 de Junio, 02:30 PM
 
 ###### **Final:**
+- Carpeta comprimida en .zip, que incluye el poster en pdf a partir de la plantilla entregada y el sketch de processing
 - Nomenclatura: **`EX_FINAL_Apellido_Nombre.zip`**
 - Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/aeH4UEbstRNaLirb6bMG)
 * **Fecha y hora límite:** Lunes 09 de Julio, 10:00 AM
@@ -208,4 +210,4 @@ No se aceptan entregas tardías
 ###### **Especificaciones:**
 Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_1sem_2)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_2sem)*
