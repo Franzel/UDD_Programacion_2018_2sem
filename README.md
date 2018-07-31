@@ -1,6 +1,6 @@
 # Repositorio curso Programación Diseño UDD
 # Secciones 1 y 3
-## Primer bimestre del Segundo Semestre 2018 (alias Tercer Bimestre)
+## Segundo Semestre 2018
 
 
 
