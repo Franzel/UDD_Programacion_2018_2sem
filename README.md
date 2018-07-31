@@ -25,16 +25,15 @@ Junto con los conocimientos introductorios al pensamiento computacional, este cu
 ## Evaluación
 
 Las evaluaciones se componen de:
-* Encargos formales semanales
-* Ejercicios menores semanales
-* Controles de conocimientos semanales
+* Ejercicios semanales
+* Encargos mayores semanales
+* Controles de conocimientos
 * Examen Final
 
-Este curso tiene la categoría de "Bimestral", por lo cual existirán 4 evaluaciones calificadas durante el semestre, que en su totalidad sumarán el 70% de la Calificación final del curso.
+Este curso tiene la categoría de "Bimestral", por lo cual existirán 4 evaluaciones calificadas durante el semestre. Serán 3 ejecicios, que se ponderan para sumar un 45%, 1 ejercicio mayor con un valor de 25% y el Examen Final que corresponde al 30% restante. Para más detalle, ver Calendario resumen correspondiente a su sección. 
 
 Ninguna evaluación parcial podrá, por sí sola, ponderar más del 25% de la nota total del curso.
 
-El Examen Final corresponde al 30% restante.
 
 #### Participación y proactividad
 
