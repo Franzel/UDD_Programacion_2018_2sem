@@ -36,9 +36,10 @@ De las 4 iniciales, 3 serán Ejercicios que se ponderan para sumar un 45%, 1 eje
 Ninguna evaluación parcial podrá, por sí sola, ponderar más del 25% de la nota total del curso.
 
 
-#### Participación y proactividad
+#### Asistencia, participación y proactividad
 
 * Se espera que los alumnos sean capaces de aportar al curso, ya sea con ejemplos de código, compartir proyectos que sean relevantes, plantear dudas y tener un alto nivel crítico frente al trabajo propio y al de sus pares.
+* La asistencia mínima para aprobar el curso es de 75%, esto se aplica tanto para las clases como para las ayudantías y se cuentan por separado. Por ejemplo el alumno reprobará el ramo si tiene un 100% de asistencia en clases pero un 60% en ayudantías. Para más información, ver el [instructivo de asistencia] (https://github.com/Franzel/UDD_Programacion_2018_2sem/blob/master/Documentos_UDD/Instructivo%20de%20Asistencia%20vigente%20desde%20junio2018.pdf)
 
 ## IMPORTANTE!! Compromiso Ético
 
@@ -51,7 +52,7 @@ El uso de estas fuentes está permitido, pero solo en tanto existan tres condici
 * **Siempre** exista atribución a la fuente original de dicho material, incluyendo explícitamente el URL fuente en el código mismo.
 * **Apropriación responsable**, es decir, el código usado debe haber sido modificado y/o remezclado **lo suficiente** para que no constituya un plagio (no cuenta por ejemplo, cambiar el color o tamaño de los elementos).
 
-**La práctica de plagio no será tolerada y es considerada una falta grave**. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Integridad Academica](https://github.com/Franzel/UDD_Programacion_2018_2sem/blob/master/Documentos_UDD/INSTRUCTIVO%20DE%20INTEGRIDAD%20ACAD%C3%89MICA_dise%C3%B1o%20UDD.pdf) de la Facultad de Diseño.
+**La práctica de plagio no será tolerada y es considerada una falta grave**. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Integridad Academica](https://github.com/Franzel/UDD_Programacion_2018_2sem/blob/master/Documentos_UDD/INSTRUCTIVO%20DE%20INTEGRIDAD%20%20ACADEMICA_diseno%20UDD.pdf) de la Facultad de Diseño.
 
 ## Bibliografía
 ### Bibliografía Obligatoria:
