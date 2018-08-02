@@ -39,7 +39,7 @@ Ninguna evaluación parcial podrá, por sí sola, ponderar más del 25% de la no
 ## Asistencia, participación y proactividad
 
 * Se espera que los alumnos sean capaces de aportar al curso, ya sea con ejemplos de código, compartir proyectos que sean relevantes, plantear dudas y tener un alto nivel crítico frente al trabajo propio y al de sus pares.
-* La asistencia mínima para aprobar el curso es de 75%, esto se aplica tanto para las clases como para las ayudantías y se cuentan por separado. Por ejemplo el alumno reprobará el ramo si tiene un 100% de asistencia en clases pero un 60% en ayudantías. Para más información, ver el [instructivo de asistencia] (https://github.com/Franzel/UDD_Programacion_2018_2sem/blob/master/Documentos_UDD/Instructivo%20de%20Asistencia%20vigente%20desde%20junio2018.pdf)
+* La asistencia mínima para aprobar el curso es de 75%, esto se aplica tanto para las clases como para las ayudantías y se cuentan por separado. Por ejemplo el alumno reprobará el ramo si tiene un 100% de asistencia en clases pero un 60% en ayudantías. Para más información, ver el [instructivo de asistencia](https://github.com/Franzel/UDD_Programacion_2018_2sem/blob/master/Documentos_UDD/Instructivo%20de%20Asistencia%20vigente%20desde%20junio2018.pdf)
 
 ## IMPORTANTE!! Compromiso Ético
 
