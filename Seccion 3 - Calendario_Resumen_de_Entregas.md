@@ -4,12 +4,12 @@
 ## Calendario de Entregas - Resumen
 Codigo  | Entrega           | Fecha límite        | Hora límite | Carpeta Dropbox                                                            | Peso
 --      | --                | --                  | --          | --                                                                         | --  |
-E01     |clonArte           |jue. 16 de Agosto    | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/tM6bOXiSAnzGksE2RjVY)| 10% |
-E02     |variArte           |jue. 23 de Agosto    | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/rGYk2q1dbfU1f4ifEYDb)| 15% |
-E03     |hyperBrush         |jue. 06 de Septiembre| 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/HyGdxCugMQLF7ZMDEn40)| 20% |
-E04     |patronInteractivo  |jue. 13 de Septiembre| 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/b2aElI2HEckYixom0UV0)| 25% |
-EX-ANTE |Examen Anteproyecto|jue. 27 de Septiembre| 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/WsM7mONS7qBMMxMcJWJE)| --  |
-EX-FINAL|Examen FINAL       |jue. 04 de Octubre   | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/mo89Naz27bPwjPiZrMh0)| 30% |
+E01     |clonArte           |jue. 16 de Agosto    | 01:00 pm    |[esta carpeta Dropbox](https://www.dropbox.com/request/tM6bOXiSAnzGksE2RjVY)| 10% |
+E02     |variArte           |jue. 23 de Agosto    | 01:00 pm    |[esta carpeta Dropbox](https://www.dropbox.com/request/rGYk2q1dbfU1f4ifEYDb)| 15% |
+E03     |hyperBrush         |jue. 06 de Septiembre| 01:00 pm    |[esta carpeta Dropbox](https://www.dropbox.com/request/HyGdxCugMQLF7ZMDEn40)| 20% |
+E04     |patronInteractivo  |jue. 13 de Septiembre| 01:00 pm    |[esta carpeta Dropbox](https://www.dropbox.com/request/b2aElI2HEckYixom0UV0)| 25% |
+EX-ANTE |Examen Anteproyecto|jue. 27 de Septiembre| 01:00 pm    |[esta carpeta Dropbox](https://www.dropbox.com/request/WsM7mONS7qBMMxMcJWJE)| --  |
+EX-FINAL|Examen FINAL       |jue. 04 de Octubre   | 01:00 pm    |[esta carpeta Dropbox](https://www.dropbox.com/request/mo89Naz27bPwjPiZrMh0)| 30% |
 
 ## SECCIÓN 3 - Calendario de clases y ayudantías
 Fecha | Tipo | Entrega/Actividad

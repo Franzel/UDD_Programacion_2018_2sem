@@ -28,7 +28,7 @@ jue. 30 de Agosto	| AYUDANTÍA	|
 mar. 04 de Septiembre	| CLASE S5	| E03 HyperBrush
 jue. 06 de Septiembre	| AYUDANTÍA	|
 mar. 11 de Septiembre	| CLASE	S6	| E04 patronInteractivo
-jue. 20 de Septiembre	| AYUDANTÍA	|
+jue. 13 de Septiembre	| AYUDANTÍA	|
 mar. 25 de Septiembre	| CLASE	S7	|EX-ANTE Examen Anteproyecto
-jue. 04 de Octubre	| AYUDANTÍA	|
+jue. 27 de Septiembre	| AYUDANTÍA	|
 mar. 02 de Octubre	| CLASE	S8	| EX-FINAL Examen Final
