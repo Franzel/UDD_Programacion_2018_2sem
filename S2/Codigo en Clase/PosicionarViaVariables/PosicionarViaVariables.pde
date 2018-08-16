@@ -5,7 +5,7 @@ void setup() {
   tamX = 100;
   tamY = 100;
   size(600,345);
-
+}
 
 void draw() {
   rect(0,0,tamX,tamY);
