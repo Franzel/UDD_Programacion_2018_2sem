@@ -14,7 +14,7 @@ void setup() {
 }
 
 void draw() {
-  background(50);
+  //background(50);
 
   //condicional
   if (tam>maxTam) {
@@ -31,6 +31,6 @@ void draw() {
   
   //solo al final dibujamos
   fill(tam*2, 0, 0);
-  ellipse(width/2, height/2, tam, tam);
+  ellipse(mouseX, mouseY, tam, tam);
   ellipse(100, 100, tam+40, tam+40); //como 'tam' es una variable, podemos sumarle al tamaño de la elipse
 }
