@@ -44,7 +44,7 @@ void draw() {
 
 void keyPressed() {
   if (key=='1') {
-    selectorFigura = 2;
+    selectorFigura = 1;
     miPorte = 20;
     miColor = color(100, 210, 220);
   }
