@@ -1,21 +1,22 @@
 void setup(){
   size(400,400);
-  background(255,255,255);
+  background(255,100,0);
 }
 
 void draw(){
-  fill(255,0,0);
-  stroke(0,0,255);
-  strokeWeight(5);
-  rect(100,100,50,50);
+  fill(255,255,0);
+  noStroke();
+  rect(100,100,200,200);
   
   fill(0,255,0);
-  strokeWeight(10);
-  stroke(255,0,255);
-  ellipse(200,200,50,50);
+  strokeWeight(3);
+  stroke(0);
+  ellipse(200,200,200,200);
   
-  line(0,200,400,200);
-  line(200,0,200,400);
+  stroke(0,255,255);
   strokeWeight(1);
-  ellipse(300,300,50,10);
+  line(0,400,400,0);
+  strokeWeight(4);
+  line(0,0,400,400);
+  
 }
